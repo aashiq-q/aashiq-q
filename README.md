@@ -1,48 +1,40 @@
 <!-- Header Section -->
-![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ashiq S A 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/aashiqq/" target="_blank" rel="noreferrer">I am</a> a passionate DevOps Engineer from India, working on Cloud and DevOps.</font></h3>
+<img width="1202" height="320" alt="image" src="https://github.com/user-attachments/assets/2eb0b187-ae11-4971-8a5e-7088e30b8d14" />
+
+
+<h1 align="center"><font face="Arial">Hi 👋, <a href="https://www.linkedin.com/in/aashiqq/" target="_blank" rel="noreferrer">I'm</a> Ashiq S A 
+<h3 align="center"><font face="Arial">🚀 Fullstack Engineer | Cloud-native Builder | AI Workflow Enthusiast </font></h3>
+<h3 align="center"><font face="Arial">I design scalable, efficient solutions across frontend, backend, and automation pipelines.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 
+
 <!-- GIF -->
-<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
+## 🧠 What I Do
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<div style="margin-top: 20px;">
+<img align="right" height="300" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+</div>
 
+I specialize in building reproducible, efficient development environments and seamless backend/frontend integrations. My work spans:
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- 🧩 **AI Workflows**: LangChain, n8n, vector stores, contextual automation  
+- 🖥️ **Frontend/Backend**: React, SpringBoot, REST APIs, MySQL  
+- 🐳 **DevOps Tools**: Docker, Kubernetes, GitHub Actions, Terraform  
+- ☁️ **Cloud Platforms**: AWS, Vercel, Railway, Render  
 
+## 🧰 My Stack Philosophy
+I value clarity, control, and reproducibility. Whether it's debugging hydration issues or managing sparse Git checkouts, I approach each challenge with precision and persistence.
 
-
-#### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/></p>
-
-
-
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" title="windows" width="40" height="40"/> </p>
-
-
-#### DevOps Stack 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="helm" width="40" height="40"/>  </p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> </p>
-
-#### Editor / IDE I ♥
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+## 🌐 Portfolio
+Explore my work and philosophy at <a href="https://aashiqq.vercel.app" target="_blank" rel="noreferrer">aashiqq.in</a>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
 - 📫 How to reach me **[aashiqconnects@gmail.com](aashiqconnectsgmail.com)**
 
 
