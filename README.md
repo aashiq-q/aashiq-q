@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<img width="1202" height="320" alt="image" src="<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/84902254-a5bc-40ce-a21a-8d27deb75301" />
-" />
+<img width="1202" height="320" alt="image" src="https://github.com/user-attachments/assets/84902254-a5bc-40ce-a21a-8d27deb75301" />
+
 
 
 <h1 align="center"><font face="Arial">Hi 👋, <a href="https://www.linkedin.com/in/aashiqq/" target="_blank" rel="noreferrer">I'm</a> Ashiq S A 
